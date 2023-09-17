@@ -1,0 +1,465 @@
+location,Date,city,country,Lat,Long
+Northumberland,,Northumberland,GB,[55.6678,-2.0895
+Northumberland,,Northumberland,GB,[55.4151,-2.1601
+Northumberland,,Northumberland,GB,[55.4776,-1.7149
+Northumberland,,Northumberland,GB,[55.143,-2.3462
+Northumberland,,Northumberland,GB,[54.9414,-2.2671
+Northumberland,,Northumberland,GB,[54.8349,-2.2653
+Northumberland,,Northumberland,GB,[55.0892,-1.7723
+North Cumbria & Morecambe Bay,,North Cumbria & Morecambe Bay,GB,[55.1064,-2.7469
+North Cumbria & Morecambe Bay,,North Cumbria & Morecambe Bay,GB,[54.8101,-2.5991
+North Cumbria & Morecambe Bay,,North Cumbria & Morecambe Bay,GB,[54.5217,-2.637
+North Cumbria & Morecambe Bay,,North Cumbria & Morecambe Bay,GB,[54.3876,-2.7225
+North Cumbria & Morecambe Bay,,North Cumbria & Morecambe Bay,GB,[54.2819,-3.1484
+North Cumbria & Morecambe Bay,,North Cumbria & Morecambe Bay,GB,[54.4004,-3.2462
+North Cumbria & Morecambe Bay,,North Cumbria & Morecambe Bay,GB,[54.5662,-3.3285
+North Cumbria & Morecambe Bay,,North Cumbria & Morecambe Bay,GB,[54.8417,-3.2044
+County Durham,,County Durham,GB,[54.8085,-1.3702
+County Durham,,County Durham,GB,[54.6816,-1.4321
+County Durham,,County Durham,GB,[54.5577,-1.5758
+County Durham,,County Durham,GB,[54.5406,-2.0097
+County Durham,,County Durham,GB,[54.7208,-1.8779
+County Durham,,County Durham,GB,[54.7795,-2.1856
+County Durham,,County Durham,GB,[54.857,-1.7597
+County Durham,,County Durham,GB,[54.8064,-1.5948
+"Newcastle, Tyneside & Sunderland",,"Newcastle, Tyneside & Sunderland",GB,[55.0526,-1.4638
+"Newcastle, Tyneside & Sunderland",,"Newcastle, Tyneside & Sunderland",GB,[54.9872,-1.468
+"Newcastle, Tyneside & Sunderland",,"Newcastle, Tyneside & Sunderland",GB,[54.8708,-1.4692
+"Newcastle, Tyneside & Sunderland",,"Newcastle, Tyneside & Sunderland",GB,[54.9529,-1.6149
+"Newcastle, Tyneside & Sunderland",,"Newcastle, Tyneside & Sunderland",GB,[55.0015,-1.7028
+"Newcastle, Tyneside & Sunderland",,"Newcastle, Tyneside & Sunderland",GB,[55.0472,-1.6151
+"Newcastle, Tyneside & Sunderland",,"Newcastle, Tyneside & Sunderland",GB,[55.0445,-1.4674
+Tees Valley,,Tees Valley,GB,[54.6933,-1.2403
+Tees Valley,,Tees Valley,GB,[54.6242,-1.287
+Tees Valley,,Tees Valley,GB,[54.5916,-1.3461
+Tees Valley,,Tees Valley,GB,[54.5638,-1.2966
+Tees Valley,,Tees Valley,GB,[54.5064,-1.3118
+Tees Valley,,Tees Valley,GB,[54.5517,-1.2142
+Tees Valley,,Tees Valley,GB,[54.5995,-1.0885
+Tees Valley,,Tees Valley,GB,[54.5462,-1.0576
+Tees Valley,,Tees Valley,GB,[54.5437,-0.9177
+York,,York,GB,[54.4335,-2.0829
+York,,York,GB,[54.267,-2.1296
+York,,York,GB,[54.087,2.1681
+York,,York,GB,[54.2751,-1.7861
+York,,York,GB,[54.04513,-1.7257
+York,,York,GB,[54.4493,-1.5754
+York,,York,GB,[54.3694,-1.3776
+York,,York,GB,[54.01645,-1.1232
+York,,York,GB,[53.8239,-1.1589
+York,,York,GB,[54.3701,-1.3557
+York,,York,GB,[54.4406,-0.9835
+York,,York,GB,[54.3927,-0.5905
+York,,York,GB,[54.2051,-0.7499
+Hull,,Hull,GB,[54.1203,-0.323
+Hull,,Hull,GB,[54.00748,-0.5703
+Hull,,Hull,GB,[53.9671,-0.2735
+Hull,,Hull,GB,[53.904,-0.7764
+Hull,,Hull,GB,[53.8652,-0.4384
+Hull,,Hull,GB,[53.8052,-0.246
+Hull,,Hull,GB,[53.7581,-0.7984
+Hull,,Hull,GB,[53.5989,-0.7039
+Hull,,Hull,GB,[53.6612,-0.4528
+Hull,,Hull,GB,[53.565,-0.1147
+Norfolk,,Norfolk,GB,[52.947,0.5815
+Norfolk,,Norfolk,GB,[52.8227,0.5101
+Norfolk,,Norfolk,GB,[52.6714,0.4249
+Norfolk,,Norfolk,GB,[52.8824,0.9553
+Norfolk,,Norfolk,GB,[52.6881,0.7739
+Norfolk,,Norfolk,GB,[52.5179,0.7464
+Norfolk,,Norfolk,GB,[52.7928,1.2576
+Norfolk,,Norfolk,GB,[52.6847,1.2796
+Norfolk,,Norfolk,GB,[52.5012,1.1724
+Norfolk,,Norfolk,GB,[52.6747,1.5379
+Kernow,,Kernow,GB,[50.1996,-5.4921
+Kernow,,Kernow,GB,[50.1292,-5.231
+Kernow,,Kernow,GB,[50.34,-5.0881
+Kernow,,Kernow,GB,[50.5203,-4.9205
+Kernow,,Kernow,GB,[50.4224,-4.7941
+Kernow,,Kernow,GB,[50.6789,-4.6594
+Kernow,,Kernow,GB,[50.6005,-4.4753
+Kernow,,Kernow,GB,[50.4556,-4.4616
+Devon,,Devon,GB,[51.0005,-4.3596
+Devon,,Devon,GB,[50.8135,-4.3047
+Devon,,Devon,GB,[50.6187,-4.0629
+Devon,,Devon,GB,[51.0075,-4.03
+Devon,,Devon,GB,[50.8343,-3.7718
+Devon,,Devon,GB,[50.8031,-3.519
+Devon,,Devon,GB,[51.2385,-3.986
+Devon,,Devon,GB,[51.0593,-3.6729
+Devon,,Devon,GB,[50.86,-3.2333
+Somerset,,Somerset,GB,[51.2088,-3.616
+Somerset,,Somerset,GB,[51.121,-3.4373
+Somerset,,Somerset,GB,[51.0606,-3.1926
+Somerset,,Somerset,GB,[51.007,-2.9727
+Somerset,,Somerset,GB,[50.95,-2.7087
+Somerset,,Somerset,GB,[51.1933,-3.2063
+Somerset,,Somerset,GB,[51.1348,-2.8105
+Somerset,,Somerset,GB,[51.0986,-2.499
+Somerset,,Somerset,GB,[51.0951,-2.5053
+Somerset,,Somerset,GB,[51.2484,-2.5108
+Dorset,,Dorset,GB,[50.8328,-2.807842914
+Dorset,,Dorset,GB,[50.7703,-2.5631
+Dorset,,Dorset,GB,[50.6886,-2.1397
+Dorset,,Dorset,GB,[50.935,-2.5576
+Dorset,,Dorset,GB,[50.7929,-2.1535
+Dorset,,Dorset,GB,[50.812,-1.8951
+Dorset,,Dorset,GB,[51.0198,-2.258
+Dorset,,Dorset,GB,[50.9575,-2.0325
+Dorset,,Dorset,GB,[50.8085,-1.8978
+Southampton & Portsmouth,,Southampton & Portsmouth,GB,[50.6948,-1.2963
+Southampton & Portsmouth,,Southampton & Portsmouth,GB,[50.8892,-1.6097
+Southampton & Portsmouth,,Southampton & Portsmouth,GB,[50.9261,-1.1286
+Southampton & Portsmouth,,Southampton & Portsmouth,GB,[51.0402,-1.3842
+Southampton & Portsmouth,,Southampton & Portsmouth,GB,[51.0592,-1.0323
+Southampton & Portsmouth,,Southampton & Portsmouth,GB,[51.2246,-1.4572
+Southampton & Portsmouth,,Southampton & Portsmouth,GB,[51.2108,-0.9266
+Southampton & Portsmouth,,Southampton & Portsmouth,GB,[51.3449,-1.4077
+Southampton & Portsmouth,,Southampton & Portsmouth,GB,[51.3311,-1.0476
+West Essex,,West Essex,GB,"[50.94751448457349, -0.8686263936438255]",
+West Essex,,West Essex,GB,"[50.847198554518826, -0.7564531679670284]",
+West Essex,,West Essex,GB,"[51.05138160661396, -0.6959715713938143]",
+West Essex,,West Essex,GB,"[50.96324305164265, -0.586005032169783]",
+West Essex,,West Essex,GB,"[50.89572994603614, -0.44029936769795613]",
+West Essex,,West Essex,GB,"[51.08935046573264, -0.41280773289195327]",
+West Essex,,West Essex,GB,"[51.02547588651957, -0.2890953762649207]",
+West Essex,,West Essex,GB,"[50.976234819999924, -0.2766294850507745]",
+West Essex,,West Essex,GB,"[51.20582759931816, -0.20265208655223968]",
+West Essex,,West Essex,GB,"[51.09901433014526, -0.10368220125060558]",
+East Sussex & Brighton,,East Sussex & Brighton,GB,"[50.896202334427215, -0.1329825030833565]",
+East Sussex & Brighton,,East Sussex & Brighton,GB,"[50.87887567105253, 0.062208104039287455]",
+East Sussex & Brighton,,East Sussex & Brighton,GB,"[50.82338703384001, 0.2519003842007228]",
+East Sussex & Brighton,,East Sussex & Brighton,GB,"[50.91005902527052, 0.5378133861832081]",
+East Sussex & Brighton,,East Sussex & Brighton,GB,"[50.97755134583214, 0.2848903459679342]",
+East Sussex & Brighton,,East Sussex & Brighton,GB,"[51.02076412806969, 0.07595392144228887]",
+East Sussex & Brighton,,East Sussex & Brighton,GB,"[51.14154588703317, 0.08695057536470598]",
+East Sussex & Brighton,,East Sussex & Brighton,GB,"[51.08464520252586, 0.34812110602177265]",
+East Sussex & Brighton,,East Sussex & Brighton,GB,"[51.00521216270077, 0.6587765793296364]",
+Kent & Medway,,Kent & Medway,GB,"[51.453326214741615, 0.2634565328910554]",
+Kent & Medway,,Kent & Medway,GB,"[51.345371945653056, 0.19747660935663272]",
+Kent & Medway,,Kent & Medway,GB,"[51.18210169959507, 0.25520904244922266]",
+Kent & Medway,,Kent & Medway,GB,"[51.32821291157442, 0.4503996495718665]",
+Kent & Medway,,Kent & Medway,GB,"[51.123527156244215, 0.5081320826644964]",
+Kent & Medway,,Kent & Medway,GB,"[51.37795641766713, 0.708821016748349]",
+Kent & Medway,,Kent & Medway,GB,"[51.252636842755706, 0.747309305476769]",
+Kent & Medway,,Kent & Medway,GB,"[51.107382638299136, 0.7200675183527894]",
+Kent & Medway,,Kent & Medway,GB,"[51.16253295199041, 1.0362213186218616]",
+Kent & Medway,,Kent & Medway,GB,"[51.36018597635915, 1.0114788472964433]",
+Kent & Medway,,Kent & Medway,GB,"[51.22793841408472, 1.29189352231772]",
+Kent & Medway,,Kent & Medway,GB,"[51.39790104615497, 1.3193851571237225]",
+Kent & Medway,,Kent & Medway,GB,"[51.15266713995086, 0.7750507879647951]",
+Bath & North Somerset,,Bath & North Somerset,GB,"[51.136287897831096, -1.7003299622682946]",
+Bath & North Somerset,,Bath & North Somerset,GB,"[51.12249865587593, -2.06321954170758]",
+Bath & North Somerset,,Bath & North Somerset,GB,"[51.30487212981263, -2.1731860809315906]",
+Bath & North Somerset,,Bath & North Somerset,GB,"[51.428336718148884, -1.7003299622682946]",
+Bath & North Somerset,,Bath & North Somerset,GB,"[51.45572809852013, -1.9257613676775456]",
+Bath & North Somerset,,Bath & North Somerset,GB,"[51.65382457039523, -1.7828048666863032]",
+Bath & North Somerset,,Bath & North Somerset,GB,"[51.60267542250589, -2.1017078304359798]",
+Bath & North Somerset,,Bath & North Somerset,GB,"[51.479682081180066, -2.360129197612442]",
+Bath & North Somerset,,Bath & North Somerset,GB,"[51.407782400675075, -2.585560603021693]",
+Bristol,,Bristol,GB,"[51.657769726691605, -2.5584217199916397]",
+Bristol,,Bristol,GB,"[51.593907377472554, -2.5924537964726335]",
+Bristol,,Bristol,GB,"[51.595613607634185, -2.4137581702335758]",
+Bristol,,Bristol,GB,"[51.5273143981149, -2.4137581702335758]",
+Bristol,,Bristol,GB,"[51.49312631896719, -2.559463834705422]",
+Bristol,,Bristol,GB,"[51.48115442967819, -2.7684002592310675]",
+Bristol,,Bristol,GB,"[51.44350802544969, -2.7079186626578537]",
+Bristol,,Bristol,GB,"[51.37669487811371, -2.9223534141447076]",
+Gloucestershire,,Gloucestershire,,"[51.98819106258565, -2.3904646315690896]",
+Gloucestershire,,Gloucestershire,,"[51.7779647003057, -2.599401056094735]",
+Gloucestershire,,Gloucestershire,,"[51.88489611580102, -2.258504784500264]",
+Gloucestershire,,Gloucestershire,,"[51.747366223279116, -2.362972996763087]",
+Gloucestershire,,Gloucestershire,,"[51.940806515142796, -2.068812504338809]",
+Gloucestershire,,Gloucestershire,,"[51.83570525424196, -2.068812504338809]",
+Gloucestershire,,Gloucestershire,,"[51.67759225914975, -2.1540365722374415]",
+Gloucestershire,,Gloucestershire,,"[52.004991525455026, -1.8098912740026418]",
+Gloucestershire,,Gloucestershire,,"[51.88582084870284, -1.853128094952694]",
+Gloucestershire,,Gloucestershire,,"[51.75679526545282, -1.8503789314720902]",
+Herefordshire,,Herefordshire,,"[52.384867940561705, -2.0321407822285975]",
+Herefordshire,,Herefordshire,,"[52.24210184269745, -2.0007313815102283]",
+Herefordshire,,Herefordshire,,"[52.11747373991136, -1.91825647709222]",
+Herefordshire,,Herefordshire,,"[52.08373050367728, -2.2206644599582903]",
+Herefordshire,,Herefordshire,,"[52.23200986938069, -2.212416969516478]",
+Herefordshire,,Herefordshire,,"[52.35967204076011, -2.35537347050772]",
+Herefordshire,,Herefordshire,,"[52.13770742964498, -2.4845841540959617]",
+Herefordshire,,Herefordshire,,"[52.27740568067898, -2.62479149160658]",
+Herefordshire,,Herefordshire,,"[51.967120304230626, -2.613794837684183]",
+Herefordshire,,Herefordshire,,"[52.03813663384738, -2.8969586761860437]",
+Herefordshire,,Herefordshire,,"[52.20340348218942, -2.976684417123468]",
+Herefordshire,,Herefordshire,,"[52.33450470252827, -2.861219550938248]",
+Shropshire,,Shropshire,,"[52.549109442645126, -2.3793555027333095]",
+Shropshire,,Shropshire,,"[52.69886261990727, -2.4421159808172614]",
+Shropshire,,Shropshire,,"[52.84508772574732, -2.4476143077784496]",
+Shropshire,,Shropshire,,"[52.40280454644252, -2.597318793630161]",
+Shropshire,,Shropshire,,"[52.56504887687093, -2.6770445345675857]",
+Shropshire,,Shropshire,,"[52.742721281664096, -2.727279271957959]",
+Shropshire,,Shropshire,,"[52.85564283610644, -2.6942893101907477]",
+Shropshire,,Shropshire,,"[52.45411229110647, -2.996697293056838]",
+Shropshire,,Shropshire,,"[52.62617207951032, -2.963707331289627]",
+Shropshire,,Shropshire,,"[52.762669921985854, -2.911473225158206]",
+Shropshire,,Shropshire,,"[52.888799276375494, -3.0076939469792356]",
+Cheshire,,Cheshire,,"[53.29559780471625, -2.951862216454722]",
+Cheshire,,Cheshire,,"[53.188760757474725, -2.8418956772306907]",
+Cheshire,,Cheshire,,"[53.05690264745964, -2.762169936293266]",
+Cheshire,,Cheshire,,"[53.34988516693456, -2.7256810163058947]",
+Cheshire,,Cheshire,,"[53.279327990816476, -2.5634803709504626]",
+Cheshire,,Cheshire,,"[53.13621584804117, -2.5249920822220417]",
+Cheshire,,Cheshire,,"[53.020720928762834, -2.4782563030518494]",
+Cheshire,,Cheshire,,"[53.39204437223078, -2.532989641084003]",
+Cheshire,,Cheshire,,"[53.303506569778065, -2.329551543519546]",
+Cheshire,,Cheshire,,"[53.167061957753695, -2.2938124182717505]",
+Cheshire,,Cheshire,,"[53.29858241074936, -2.1343609363969023]",
+Wirral,,Wirral,,"[53.317134934407534, -2.963713650695486]",
+Wirral,,Wirral,,"[53.34591323704904, -2.9874491478132663]",
+Wirral,,Wirral,,"[53.324182189085235, -3.063051143529774]",
+Wirral,,Wirral,,"[53.386066016561486, -3.0197518187103216]",
+Wirral,,Wirral,,"[53.34673305981918, -3.115285249661196]",
+Wirral,,Wirral,,"[53.39540968756595, -3.0961035672175017]",
+Wirral,,Wirral,,"[53.427743101475386, -3.0562406967487887]",
+Wirral,,Wirral,,"[53.38926765499248, -3.1772038898952175]",
+Nottingham & Bassetlaw,,Nottingham & Bassetlaw,,"[52.86212529057929, -1.200002308985191]",
+Nottingham & Bassetlaw,,Nottingham & Bassetlaw,,"[52.930058577256496, -0.9575953614963973]",
+Nottingham & Bassetlaw,,Nottingham & Bassetlaw,,"[52.999538388412105, -1.150036805138437]",
+Nottingham & Bassetlaw,,Nottingham & Bassetlaw,,"[53.08090700849364, -0.7736513398760028]",
+Nottingham & Bassetlaw,,Nottingham & Bassetlaw,,"[53.09740219947789, -0.9908352548434609]",
+Nottingham & Bassetlaw,,Nottingham & Bassetlaw,,"[53.18472119282285, -1.1667817176018949]",
+Nottingham & Bassetlaw,,Nottingham & Bassetlaw,,"[53.181429358767716, -0.9413503121926438]",
+Nottingham & Bassetlaw,,Nottingham & Bassetlaw,,"[53.28992652938893, -1.0788084862226779]",
+Nottingham & Bassetlaw,,Nottingham & Bassetlaw,,"[53.31454663641655, -0.8176379555656111]",
+Nottingham & Bassetlaw,,Nottingham & Bassetlaw,,"[53.38668375525444, -1.051316851416675]",
+Nottingham & Bassetlaw,,Nottingham & Bassetlaw,,"[53.435798185072336, -0.9248553313090381]",
+Lincolnshire,,Lincolnshire,,"[52.83181481639034, 0.13110097790769437]",
+Lincolnshire,,Lincolnshire,,"[52.72639288427792, -0.22670545418029378]",
+Lincolnshire,,Lincolnshire,,"[52.86920991013167, -0.5566050718523874]",
+Lincolnshire,,Lincolnshire,,"[53.006600541661314, -0.21570880025789668]",
+Lincolnshire,,Lincolnshire,,"[53.1392539221271, 0.1381834940000193]",
+Lincolnshire,,Lincolnshire,,"[53.09740235361255, -0.6033408510225803]",
+Lincolnshire,,Lincolnshire,,"[53.224502579302886, -0.17072237435105111]",
+Lincolnshire,,Lincolnshire,,"[53.378790506140405, 0.1316856085150198]",
+Lincolnshire,,Lincolnshire,,"[53.41645695846073, -0.12398659518083832]",
+Lincolnshire,,Lincolnshire,,"[53.4410040771968, -0.42364541456630495]",
+Lincolnshire,,Lincolnshire,,"[53.31156324937876, -0.6078393677665518]",
+Cambridgeshire,,Cambridgeshire,,"[52.14383698285523, 0.36974455431158404]",
+Cambridgeshire,,Cambridgeshire,,"[52.1674280955232, -0.05912494866210372]",
+Cambridgeshire,,Cambridgeshire,,"[52.26502955845089, 0.14981147586352164]",
+Cambridgeshire,,Cambridgeshire,,"[52.31207076861671, -0.22957308445934915]",
+Cambridgeshire,,Cambridgeshire,,"[52.45122101108598, 0.2570288516069486]",
+Cambridgeshire,,Cambridgeshire,,"[52.488638840648136, -0.0011425839896417325]",
+Cambridgeshire,,Cambridgeshire,,"[52.46856491859454, -0.2705606050885012]",
+Cambridgeshire,,Cambridgeshire,,"[52.582196086650974, -0.2623131146467084]",
+Cambridgeshire,,Cambridgeshire,,"[52.64723430933745, 0.11982060915680659]",
+Suffolk  & Ipswitch,,Suffolk  & Ipswitch,,"[52.17539113976518, 1.50043638103766]",
+Suffolk  & Ipswitch,,Suffolk  & Ipswitch,,"[52.406765047516345, 1.514438626274868]",
+Suffolk  & Ipswitch,,Suffolk  & Ipswitch,,"[52.09569691461198, 1.2092814799282128]",
+Suffolk  & Ipswitch,,Suffolk  & Ipswitch,,"[52.26747452070634, 1.3000038747880138]",
+Suffolk  & Ipswitch,,Suffolk  & Ipswitch,,"[52.043358472109794, 0.9068734970621418]",
+Suffolk  & Ipswitch,,Suffolk  & Ipswitch,,"[52.2271159443704, 1.0140908728055689]",
+Suffolk  & Ipswitch,,Suffolk  & Ipswitch,,"[52.364856236529036, 0.9783517475577331]",
+Suffolk  & Ipswitch,,Suffolk  & Ipswitch,,"[52.07789949168249, 0.7626674220694076]",
+Suffolk  & Ipswitch,,Suffolk  & Ipswitch,,"[52.25647124901656, 0.7929082203560346]",
+Suffolk  & Ipswitch,,Suffolk  & Ipswitch,,"[52.16390554666571, 0.5454835071019694]",
+Suffolk  & Ipswitch,,Suffolk  & Ipswitch,,"[52.28840368081816, 0.5674768149467636]",
+Suffolk  & Ipswitch,,Suffolk  & Ipswitch,,"[52.40417544675251, 0.5097443818541737]",
+"Essex, Thurrock, Southend",,"Essex, Thurrock, Southend",,"[51.56073712441606, 0.7184723622117728]",
+"Essex, Thurrock, Southend",,"Essex, Thurrock, Southend",,"[51.605963576417814, 0.8559305362417869]",
+"Essex, Thurrock, Southend",,"Essex, Thurrock, Southend",,"[51.692025243259415, 0.8614288632029955]",
+"Essex, Thurrock, Southend",,"Essex, Thurrock, Southend",,"[51.68010565653801, 0.6291245490922437]",
+"Essex, Thurrock, Southend",,"Essex, Thurrock, Southend",,"[51.54109654329513, 0.3981948167218042]",
+"Essex, Thurrock, Southend",,"Essex, Thurrock, Southend",,"[51.625188615620125, 0.3018077839723255]",
+"Essex, Thurrock, Southend",,"Essex, Thurrock, Southend",,"[51.752039824226124, 0.44751344844417235]",
+"Essex, Thurrock, Southend",,"Essex, Thurrock, Southend",,"[51.71531356602312, 0.13307322149785697]",
+"Essex, Thurrock, Southend",,"Essex, Thurrock, Southend",,"[51.89229311172735, 0.3165906628928284]",
+"Essex, Thurrock, Southend",,"Essex, Thurrock, Southend",,"[52.026001076786464, 0.21762077759119428]",
+"Essex, Thurrock, Southend",,"Essex, Thurrock, Southend",,"[51.98880600817126, 0.5970053379140651]",
+"Essex, Thurrock, Southend",,"Essex, Thurrock, Southend",,"[51.901691818993186, 0.8886665984375909]",
+"Essex, Thurrock, Southend",,"Essex, Thurrock, Southend",,"[51.85159391580405, 1.1525862925752817]",
+"Essex, Thurrock, Southend",,"Essex, Thurrock, Southend",,"[51.854986918042044, 1.3972618423487226]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[51.80919607647912, 0.09517686347844558]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[51.87298638609321, 0.14541561861535438]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[51.72049572123783, -0.04015291632518459]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[51.8219522071401, -0.0900127563457698]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[51.91589940624494, -0.002164448807584485]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[51.97938471175303, -0.03927815579569228]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[52.03771184367162, 0.014330532076041182]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[51.702858546383055, -0.17517869968509686]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[51.765794877572844, -0.2933927293509209]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[51.83797848561933, -0.32088436415694366]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[51.91004654420477, -0.1885496197183301]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[51.98538231180279, -0.2091683458228322]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[51.657806099101194, -0.39573652318499075]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[51.744619708615915, -0.4493452110566843]",
+Hertfordshire & herts valley,,Hertfordshire & herts valley,,"[51.787114577568346, -0.5730575676837169]",
+"Buckinghamshire, Luton, Milton Kyenes",,"Buckinghamshire, Luton, Milton Kyenes",,"[51.586306212479066, -0.5645355091469041]",
+"Buckinghamshire, Luton, Milton Kyenes",,"Buckinghamshire, Luton, Milton Kyenes",,"[51.61081181155219, -0.8652821696652448]",
+"Buckinghamshire, Luton, Milton Kyenes",,"Buckinghamshire, Luton, Milton Kyenes",,"[51.713034116109, -0.6288541103335967]",
+"Buckinghamshire, Luton, Milton Kyenes",,"Buckinghamshire, Luton, Milton Kyenes",,"[51.801440311488136, -0.8157972270144477]",
+"Buckinghamshire, Luton, Milton Kyenes",,"Buckinghamshire, Luton, Milton Kyenes",,"[51.90662158738769, -0.5683725137603824]",
+"Buckinghamshire, Luton, Milton Kyenes",,"Buckinghamshire, Luton, Milton Kyenes",,"[51.91170476926356, -1.0027403436952786]",
+"Buckinghamshire, Luton, Milton Kyenes",,"Buckinghamshire, Luton, Milton Kyenes",,"[52.037368615907134, -0.7718106113248392]",
+"Buckinghamshire, Luton, Milton Kyenes",,"Buckinghamshire, Luton, Milton Kyenes",,"[52.05932740682913, -0.33194445442873427]",
+"Buckinghamshire, Luton, Milton Kyenes",,"Buckinghamshire, Luton, Milton Kyenes",,"[52.13525530462918, -0.4721517919393526]",
+"Buckinghamshire, Luton, Milton Kyenes",,"Buckinghamshire, Luton, Milton Kyenes",,"[52.26487675405282, -0.4584059745363512]",
+Oxfordshire,,Oxfordshire,,"[51.544554223278595, -0.9580134357179393]",
+Oxfordshire,,Oxfordshire,,"[51.596699455311615, -1.2522755982513092]",
+Oxfordshire,,Oxfordshire,,"[51.71767513067264, -1.0378408467644553]",
+Oxfordshire,,Oxfordshire,,"[51.63592412278395, -1.5409377637143784]",
+Oxfordshire,,Oxfordshire,,"[51.76359523613896, -1.277018069576708]",
+Oxfordshire,,Oxfordshire,,"[51.82984190754697, -1.6261618316129913]",
+Oxfordshire,,Oxfordshire,,"[51.92310135268972, -1.1395598955466737]",
+Oxfordshire,,Oxfordshire,,"[51.936650251797964, -1.3787371183589463]",
+Oxfordshire,,Oxfordshire,,"[52.073449094457196, -1.3842354453201344]",
+Frimley & Berkshire West,,Frimley & Berkshire West,,"[51.148893448130735, -0.7008963751133447]",
+Frimley & Berkshire West,,Frimley & Berkshire West,,"[51.231207197567315, -0.6541605959431318]",
+Frimley & Berkshire West,,Frimley & Berkshire West,,"[51.33085055940411, -0.5991773263311263]",
+Frimley & Berkshire West,,Frimley & Berkshire West,,"[51.48675217345886, -0.5689365280445192]",
+Frimley & Berkshire West,,Frimley & Berkshire West,,"[51.433702525932596, -0.7531304812447659]",
+Frimley & Berkshire West,,Frimley & Berkshire West,,"[51.53119788932444, -0.7668762986477673]",
+Frimley & Berkshire West,,Frimley & Berkshire West,,"[51.40801120179673, -0.8933378187553844]",
+Frimley & Berkshire West,,Frimley & Berkshire West,,"[51.459379409983235, -1.0280468293048142]",
+Frimley & Berkshire West,,Frimley & Berkshire West,,"[51.41315062197258, -1.302963177364882]",
+Frimley & Berkshire West,,Frimley & Berkshire West,,"[51.50727096851691, -1.5009029479681304]",
+Northamptonshire,,Northamptonshire,,"[52.04719779288964, -1.175639155260402]",
+Northamptonshire,,Northamptonshire,,"[52.12636552659687, -1.0377682364834475]",
+Northamptonshire,,Northamptonshire,,"[52.176922434814806, -1.2357080070866955]",
+Northamptonshire,,Northamptonshire,,"[52.20554586919511, -0.7656010519039836]",
+Northamptonshire,,Northamptonshire,,"[52.26946104162312, -0.897560898972809]",
+Northamptonshire,,Northamptonshire,,"[52.276183600838486, -1.1669789200716887]",
+Northamptonshire,,Northamptonshire,,"[52.32046589548073, -0.6506360488784679]",
+Northamptonshire,,Northamptonshire,,"[52.40097651401264, -1.013525628317753]",
+Northamptonshire,,Northamptonshire,,"[52.41940620681698, -0.7303617898158922]",
+Northamptonshire,,Northamptonshire,,"[52.421081251600775, -0.45269627827521985]",
+Northamptonshire,,Northamptonshire,,"[52.51478222717663, -0.4554454417558241]",
+Northamptonshire,,Northamptonshire,,"[52.51478222717663, -0.6753785202038864]",
+Northamptonshire,,Northamptonshire,,"[52.59979190318771, -0.5124280801088776]",
+Leicester ,,Leicester ,,"[52.67055790376349, -0.6364340191352215]",
+Leicester ,,Leicester ,,"[52.55685220065667, -0.9005420477335392]",
+Leicester ,,Leicester ,,"[52.71520132849228, -0.8510571050827221]",
+Leicester ,,Leicester ,,"[52.87297774562378, -0.8290637972379279]",
+Leicester ,,Leicester ,,"[52.46780450227914, -1.1604629204913253]",
+Leicester ,,Leicester ,,"[52.6398107270908, -1.1137271413211127]",
+Leicester ,,Leicester ,,"[52.78291143051363, -1.0340014003836886]",
+Leicester ,,Leicester ,,"[52.54804663837768, -1.3501552006527608]",
+Leicester ,,Leicester ,,"[52.699770463862535, -1.391392652861765]",
+Leicester ,,Leicester ,,"[52.81612341825865, -1.3171652388855493]",
+Derby & Derbyshire,,Derby & Derbyshire,,"[52.79227366060943, -1.5720940318064083]",
+Derby & Derbyshire,,Derby & Derbyshire,,"[52.94480604627294, -1.45587945789313]",
+Derby & Derbyshire,,Derby & Derbyshire,,"[52.943150968001895, -1.755538277278597]",
+Derby & Derbyshire,,Derby & Derbyshire,,"[53.10564747450929, -1.3679062265139135]",
+Derby & Derbyshire,,Derby & Derbyshire,,"[53.052850722439665, -1.5328560353499503]",
+Derby & Derbyshire,,Derby & Derbyshire,,"[53.13202157429302, -1.6950566807053826]",
+Derby & Derbyshire,,Derby & Derbyshire,,"[53.247218096030146, -1.2551905238092775]",
+Derby & Derbyshire,,Derby & Derbyshire,,"[53.25872073072518, -1.5053644005439475]",
+Derby & Derbyshire,,Derby & Derbyshire,,"[53.25543457925891, -1.7885282390458082]",
+Derby & Derbyshire,,Derby & Derbyshire,,"[53.34273047001626, -1.9399821620586957]",
+Derby & Derbyshire,,Derby & Derbyshire,,"[53.45736089547919, -1.8492597671988742]",
+"Sheffield, barnsley, Doncaster, Wakefield",,"Sheffield, barnsley, Doncaster, Wakefield",,"[53.629947153107416, -0.9545226228113425]",
+"Sheffield, barnsley, Doncaster, Wakefield",,"Sheffield, barnsley, Doncaster, Wakefield",,"[53.535375784100246, -1.1095173778500333]",
+"Sheffield, barnsley, Doncaster, Wakefield",,"Sheffield, barnsley, Doncaster, Wakefield",,"[53.61935920807533, -1.1672498109426435]",
+"Sheffield, barnsley, Doncaster, Wakefield",,"Sheffield, barnsley, Doncaster, Wakefield",,"[53.34992019685555, -1.2362288295375226]",
+"Sheffield, barnsley, Doncaster, Wakefield",,"Sheffield, barnsley, Doncaster, Wakefield",,"[53.486599336858674, -1.2678442095644218]",
+"Sheffield, barnsley, Doncaster, Wakefield",,"Sheffield, barnsley, Doncaster, Wakefield",,"[53.392377197870545, -1.4578251430459834]",
+"Sheffield, barnsley, Doncaster, Wakefield",,"Sheffield, barnsley, Doncaster, Wakefield",,"[53.465200196981456, -1.6420190962462304]",
+"Sheffield, barnsley, Doncaster, Wakefield",,"Sheffield, barnsley, Doncaster, Wakefield",,"[53.50850744923534, -1.750611053729969]",
+"Sheffield, barnsley, Doncaster, Wakefield",,"Sheffield, barnsley, Doncaster, Wakefield",,"[53.561040679789535, -1.4845670250613343]",
+Leeds,,Leeds,,"[53.660550855805745, -1.338103652721299]",
+Leeds,,Leeds,,"[53.905151720737884, -1.3866269612408113]",
+Leeds,,Leeds,,"[53.70077616931073, -1.6230550205724796]",
+Leeds,,Leeds,,"[53.81444112245534, -1.5378309526738465]",
+Leeds,,Leeds,,"[53.60310408975692, -1.8319914450981247]",
+Leeds,,Leeds,,"[53.80957607541865, -1.7522657041607006]",
+Leeds,,Leeds,,"[53.75927085153075, -2.0161853982983717]",
+Leeds,,Leeds,,"[53.87601618759034, -1.8842255512295463]",
+Liverpool,,Liverpool,,"[53.45851070419976, -2.7283342334776606]",
+Liverpool,,Liverpool,,"[53.41217593619386, -2.8062639150020496]",
+Liverpool,,Liverpool,,"[53.36221470877874, -2.8612471846140553]",
+Liverpool,,Liverpool,,"[53.4179054419128, -2.9657153968768784]",
+Liverpool,,Liverpool,,"[53.44899500584004, -2.9107321272648727]",
+Liverpool,,Liverpool,,"[53.49885439178025, -2.8571234393931593]",
+Liverpool,,Liverpool,,"[53.4890506162033, -3.0014545221246935]",
+Liverpool,,Liverpool,,"[53.56786223992822, -3.0748072175203216]",
+Liverpool,,Liverpool,,"[53.654222921930895, -3.004703548765002]",
+"Blackpool, Preston, Lancashire",,"Blackpool, Preston, Lancashire",,"[53.596288271052956, -2.874512132179728]",
+"Blackpool, Preston, Lancashire",,"Blackpool, Preston, Lancashire",,"[53.6675043646954, -2.6128589210626996]",
+"Blackpool, Preston, Lancashire",,"Blackpool, Preston, Lancashire",,"[53.784504840384564, -2.4231666409012447]",
+"Blackpool, Preston, Lancashire",,"Blackpool, Preston, Lancashire",,"[53.88823211650569, -2.1977352354919937]",
+"Blackpool, Preston, Lancashire",,"Blackpool, Preston, Lancashire",,"[53.78288206274721, -2.761313749015131]",
+"Blackpool, Preston, Lancashire",,"Blackpool, Preston, Lancashire",,"[53.965859051577745, -2.4011733330564504]",
+"Blackpool, Preston, Lancashire",,"Blackpool, Preston, Lancashire",,"[53.93029796046465, -2.6293539019462853]",
+"Blackpool, Preston, Lancashire",,"Blackpool, Preston, Lancashire",,"[53.970705942247484, -2.810798691665928]",
+"Blackpool, Preston, Lancashire",,"Blackpool, Preston, Lancashire",,"[53.82505388706845, -2.9977418083467793]",
+"Blackpool, Preston, Lancashire",,"Blackpool, Preston, Lancashire",,"[54.095941627227624, -2.7650624710195264]",
+"Blackpool, Preston, Lancashire",,"Blackpool, Preston, Lancashire",,"[54.18282705079068, -2.556126046493881]",
+London,,London,,"[51.322929801197034, 0.06395016953158807]",
+London,,London,,"[51.34718735992888, -0.11770380666717319]",
+London,,London,,"[51.383199000942604, 0.08848345437786789]",
+London,,London,,"[51.472248841575976, 0.14346672398991347]",
+London,,London,,"[51.44315548680068, -0.05859679183425116]",
+London,,London,,"[51.42688935806267, -0.25516198069718726]",
+London,,London,,"[51.45428160624745, -0.38987099124663693]",
+London,,London,,"[51.51414488453722, -0.1960549658642852]",
+London,,London,,"[51.53123424591079, -0.3623793564406142]",
+London,,London,,"[51.56454005661811, -0.010486430923746237]",
+London,,London,,"[51.56539373118357, 0.1750821040168127]",
+London,,London,,"[51.61697246915159, -0.24966365373599866]",
+London,,London,,"[51.65277164862744, -0.09296133534175467]",
+Surrey Hertlands,,Surrey Hertlands,,"[51.170461685811595, -0.009933907542738487]",
+Surrey Hertlands,,Surrey Hertlands,,"[51.283981715157424, -0.027803470166636316]",
+Surrey Hertlands,,Surrey Hertlands,,"[51.18079326064007, -0.17900746159967176]",
+Surrey Hertlands,,Surrey Hertlands,,"[51.25476847920719, -0.17763287985935963]",
+Surrey Hertlands,,Surrey Hertlands,,"[51.14462261949099, -0.42230842963282056]",
+Surrey Hertlands,,Surrey Hertlands,,"[51.250470848653656, -0.3260877078118108]",
+Surrey Hertlands,,Surrey Hertlands,,"[51.32605047945693, -0.24773654861467878]",
+Surrey Hertlands,,Surrey Hertlands,,"[51.38620111213717, -0.37885189043083584]",
+Surrey Hertlands,,Surrey Hertlands,,"[51.05187451127667, -0.7207599085808215]",
+Surrey Hertlands,,Surrey Hertlands,,"[51.13036577674854, -0.6204154415388953]",
+Surrey Hertlands,,Surrey Hertlands,,"[51.19409565184624, -0.78399066863464]",
+Surrey Hertlands,,Surrey Hertlands,,"[51.22240913033216, -0.6292877609303483]",
+Surrey Hertlands,,Surrey Hertlands,,"[51.32035506933397, -0.6059198713452421]",
+Surrey Hertlands,,Surrey Hertlands,,"[51.37610800512791, -0.5481874382526121]",
+Coventry,,Coventry,,"[52.05226494633864, -1.5480925397477743]",
+Coventry,,Coventry,,"[52.139393146097156, -1.5336827484769056]",
+Coventry,,Coventry,,"[52.15670644511073, -1.6793884129487324]",
+Coventry,,Coventry,,"[52.19207819775761, -1.8525857122265823]",
+Coventry,,Coventry,,"[52.225739436375264, -1.3934754109662673]",
+Coventry,,Coventry,,"[52.254331440037205, -1.7041308842741512]",
+Coventry,,Coventry,,"[52.33328408251156, -1.8360907313429764]",
+Coventry,,Coventry,,"[52.3164974333222, -1.57492020068591]",
+Coventry,,Coventry,,"[52.350064363076775, -1.3577362857184716]",
+Coventry,,Coventry,,"[52.46871710942638, -1.3824787570438704]",
+Stafford,,Stafford,,"[52.537264866853576, -2.2189641414023575]",
+Stafford,,Stafford,,"[52.62116997391775, -1.7818471479868572]",
+Stafford,,Stafford,,"[52.716108696131144, -1.691124753127036]",
+Stafford,,Stafford,,"[52.72941692572884, -1.8313320906376742]",
+Stafford,,Stafford,,"[52.69114481875123, -2.111746765658931]",
+Stafford,,Stafford,,"[52.832418059201636, -1.641639810476219]",
+Stafford,,Stafford,,"[52.86725028661033, -1.9055595046138896]",
+Stafford,,Stafford,,"[52.79423640304918, -2.3124356997427835]",
+Stafford,,Stafford,,"[52.9569913738284, -2.281445190614409]",
+Stafford,,Stafford,,"[52.97022599133112, -2.072508766088763]",
+Stafford,,Stafford,,"[53.02477597201057, -1.9103081207333308]",
+Stafford,,Stafford,,"[53.079257056682565, -2.0890037469723692]",
+Stafford,,Stafford,,"[53.16002619363973, -1.9268031016169367]",
+Birmingham,,Birmingham,,"[52.407714699938836, -1.508062678706652]",
+Birmingham,,Birmingham,,"[52.39887925024415, -1.664170221426944]",
+Birmingham,,Birmingham,,"[52.39887925024415, -1.7975046502360814]",
+Birmingham,,Birmingham,,"[52.476737773794724, -1.761765524988266]",
+Birmingham,,Birmingham,,"[52.42149751090704, -1.929464497304907]",
+Birmingham,,Birmingham,,"[52.49429969427882, -1.8909762085765072]",
+Birmingham,,Birmingham,,"[52.56531205011804, -1.837367520704794]",
+Birmingham,,Birmingham,,"[52.46000561605256, -2.0902905609200477]",
+Birmingham,,Birmingham,,"[52.5319087741436, -2.0284343826065414]",
+Birmingham,,Birmingham,,"[52.60703039962888, -1.9239661703436985]",
+Birmingham,,Birmingham,,"[52.592016368357484, -2.138400921830552]",
+Manchester,,Manchester,,"[53.53433702351188, -1.9631277222075407]",
+Manchester,,Manchester,,"[53.38954806261009, -2.0643908071099464]",
+Manchester,,Manchester,,"[53.45011029011774, -2.07951120625324]",
+Manchester,,Manchester,,"[53.54895196564808, -2.1097520045398466]",
+Manchester,,Manchester,,"[53.6410506773226, -2.1289961489040565]",
+Manchester,,Manchester,,"[53.387910048356304, -2.245835596829589]",
+Manchester,,Manchester,,"[53.493432939628946, -2.2210931255041904]",
+Manchester,,Manchester,,"[53.587282895950565, -2.2320897794265875]",
+Manchester,,Manchester,,"[53.423931804022224, -2.39429042478202]",
+Manchester,,Manchester,,"[53.51956860359803, -2.3571767177939122]",
+Manchester,,Manchester,,"[53.59950885924955, -2.4300295500298357]",
+Manchester,,Manchester,,"[53.48541079132208, -2.541164343818154]",
+Manchester,,Manchester,,"[53.55889018336108, -2.6401342291197887]",
